@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f8ff;
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  background: #003366;
+  color: white;
+  padding: 20px;
+  margin: 0;
+}
+
+#map-container {
+  margin: 30px auto;
+  max-width: 900px;
+  height: 500px;
+  border: 2px dashed #888;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
